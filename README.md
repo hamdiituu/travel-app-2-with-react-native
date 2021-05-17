@@ -1,2 +1,13 @@
-![Home Screen](https://github.com/hamdiituu/React-Native-Travel-App/blob/master/src/assets/images/screen1.png?raw=true)
-![Detail Screen](https://github.com/hamdiituu/React-Native-Travel-App/blob/master/src/assets/images/screen2.png?raw=true)
+**Install Steps**
+
+`npm i -g react-native`
+
+**Runing Steps**
+
+`npm install`
+
+`npm run ios & npm run andriod`
+
+**Application Screens**
+
+![](./images/app.png)
